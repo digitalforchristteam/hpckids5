@@ -1,0 +1,8 @@
+name = "hpckids5"
+main = "_worker.js"
+compatibility_date = "2026-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "thp-kids-db"
+database_id = "06e834b7-6b79-4a7a-9ce1-a24a4afc3ed4"
